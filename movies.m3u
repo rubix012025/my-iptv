@@ -27,5 +27,8 @@ https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 #EXTINF:-5, StarZ HD
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
-#EXTINF:-2,StarZ
+#EXTINF:-2, StarZ
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+
+#EXTINF:-6, MixHollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
