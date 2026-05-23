@@ -822,7 +822,7 @@ https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
 https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
 #EXTINF:-1 channel-id="star-movies-hd" tvg-id="star-movies-hd" tvg-chno="4001" tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/star-movies-hd.png" group-title="Movies",Star Movies HD
 http://202.70.146.135:8000/play/a06r/index.m3u8
-#EXTINF:-1 Sony Pix HD
+#EXTINF:-1, Sony Pix HD
 http://202.70.146.135:8000/play/a06p/index.m3u8
 #EXTINF:-1 channel-id="star-movies-select-hd" tvg-id="star-movies-select-hd" tvg-chno="4002" tvg-name="Star Movies Select HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/star-movies-select-hd.png" group-title="Movies",Star Movies Select HD
 http://202.70.146.135:8000/play/a06q/index.m3u8
