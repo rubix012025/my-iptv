@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
 
+#EXTINF:-1 tvg-name="Kapamilya Online Live" tvg-logo="https://abs-cbn.com" group-title="Philippines",Kapamilya Online Live
+https://www.youtube.com/watch?v=dQ6ZS5R5Ooo
+#EXTINF:-1 tvg-name="Kapuso Stream" tvg-logo="https://gmanetwork.com" group-title="Philippines",GMA Kapuso Stream Live
+https://www.youtube.com/watch?v=oeCjy1Aa4ZA
 #EXTINF:-1 channel-id="62ba60f059624e000781c436" tvg-id="62ba60f059624e000781c436" tvg-chno="160" tvg-name="00s Replay" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Movies",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 channel-id="6176f39e709f160007ec61c3" tvg-id="6176f39e709f160007ec61c3" tvg-chno="1260" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="True Crime",48 Hours
@@ -982,7 +986,3 @@ https://3bd25beecec04b169f33659a7739c10b.mediatailor.us-east-1.amazonaws.com/v1/
 https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony One Faves" group-title="Entertainment",Sony One Faves
 https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
-#EXTINF:-1 tvg-name="Kapamilya Online Live" tvg-logo="https://abs-cbn.com" group-title="Philippines",Kapamilya Online Live
-https://www.youtube.com/watch?v=dQ6ZS5R5Ooo
-#EXTINF:-1 tvg-name="Kapuso Stream" tvg-logo="https://gmanetwork.com" group-title="Philippines",GMA Kapuso Stream Live
-https://www.youtube.com/watch?v=oeCjy1Aa4ZA
