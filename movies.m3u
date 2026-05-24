@@ -994,5 +994,5 @@ https://3bd25beecec04b169f33659a7739c10b.mediatailor.us-east-1.amazonaws.com/v1/
 https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony One Faves" group-title="Entertainment",Sony One Faves
 https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
-#EXTM3U\n#EXTINF:-1 tvg-name="Action TV" tvg-logo="https://siliconweb.com" group-title="Entertainment",Action TV Live\n
+#EXTINF:-1 tvg-name="Action TV" tvg-logo="https://siliconweb.com" group-title="Entertainment",Action TV Live\n
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_480p/chunks.m3u8
