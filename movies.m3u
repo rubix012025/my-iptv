@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
 
+#EXTINF:-1 tvg-name="DZMM TeleRadyo" tvg-logo="https://abs-cbn.com" group-title="Philippines",DZMM TeleRadyo Live
+https://www.youtube.com/watch?v=ffZ08qoHBII
 #EXTINF:-1 tvg-name="Kapamilya Online Live" tvg-logo="https://abs-cbn.com" group-title="Philippines",Kapamilya Online Live
 https://www.youtube.com/watch?v=dQ6ZS5R5Ooo
 #EXTINF:-1 tvg-name="Kapuso Stream" tvg-logo="https://gmanetwork.com" group-title="Philippines",GMA Kapuso Stream Live
