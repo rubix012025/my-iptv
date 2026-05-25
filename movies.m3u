@@ -8,8 +8,10 @@ https://www.youtube.com/watch?v=OKQEMp2555A
 https://www.youtube.com/watch?v=7xdodBu2_8g
 #EXTINF:-1 tvg-name="DZMM TeleRadyo" tvg-logo="https://abs-cbn.com" group-title="Philippines",DZMM TeleRadyo Live
 https://www.youtube.com/watch?v=ffZ08qoHBII
+#EXTINF:-1 tvg-name="ANC Live",ANC Live
+https://www.youtube.com/@ANCAlerts/live
 #EXTINF:-1 tvg-name="Kapamilya Online Live" tvg-logo="https://abs-cbn.com" group-title="Philippines",Kapamilya Online Live
-https://www.youtube.com/watch?v=dQ6ZS5R5Ooo
+https://www.youtube.com/@abscbnentertainment/live
 #EXTINF:-1 tvg-name="Kapuso Stream" tvg-logo="https://gmanetwork.com" group-title="Philippines",GMA Kapuso Stream Live
 https://www.youtube.com/@gmanetwork/live
 #EXTINF:-1 channel-id="62ba60f059624e000781c436" tvg-id="62ba60f059624e000781c436" tvg-chno="160" tvg-name="00s Replay" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Movies",00s Replay
