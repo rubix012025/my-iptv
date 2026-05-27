@@ -1,19 +1,11 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
 
-#EXTINF:-1 tvg-name="NASA ISS Live" tvg-logo="https://nasa.gov" group-title="Science",NASA ISS Live Stream (Earth from Space)
-https://www.youtube.com/watch?v=0FBiyFpV__g
-#EXTINF:-1 tvg-name="Live Earthquake Cam" tvg-logo="https://youtube.com" group-title="Science",Earthquake & Volcano Monitoring 24/7
-https://www.youtube.com/watch?v=rvtygG4n6ew
-#EXTINF:-1 tvg-name="The Epicenter Live" tvg-logo="https://youtube.com" group-title="Science",The Epicenter Global Seismic Monitor
-https://www.youtube.com/watch?v=7xdodBu2_8g
 #EXTINF:-1 tvg-name="DZMM TeleRadyo" tvg-logo="https://abs-cbn.com" group-title="Philippines",DZMM TeleRadyo Live
-https://www.youtube.com/watch?v=ipVEoMgonoA
-#EXTINF:-1 tvg-name="ANC Live" tvg-logo="https://abs-cbn.com" group-title="Philippines",ANC Live
-https://www.youtube.com/watch?v=wwvL9ejWUwA
+https://www.youtube.com/watch?v=AQfTCXsrDWM
 #EXTINF:-1 tvg-name="Kapamilya Online Live" tvg-logo="https://abs-cbn.com" group-title="Philippines",Kapamilya Online Live
-https://www.youtube.com/watch?v=KgoaavAUfao
+https://www.youtube.com/watch?v=0uXafUE1vXM
 #EXTINF:-1 tvg-name="Kapuso Stream" tvg-logo="https://gmanetwork.com" group-title="Philippines",GMA Kapuso Stream Live
-https://www.youtube.com/watch?v=TbXvbzci1_w
+https://www.youtube.com/watch?v=P2Z3OfcJYn4
 #EXTINF:-1 channel-id="62ba60f059624e000781c436" tvg-id="62ba60f059624e000781c436" tvg-chno="160" tvg-name="00s Replay" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Movies",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 channel-id="6176f39e709f160007ec61c3" tvg-id="6176f39e709f160007ec61c3" tvg-chno="1260" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="True Crime",48 Hours
