@@ -66,6 +66,8 @@ https://v5.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8?token=ibskB
 https://v17.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8?token=Wu5lDSYGBPgy__55nfv3aQ&expires=1780161287&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
 #EXTINF:-1 tvg-id="hallmark-mystery-east" tvg-name="Hallmark Mystery East" group-title="Entertainment",Hallmark Mystery East
 https://e1.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8?token=a_AqgXtIPewEaauPys3WLA&expires=1780161339&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
+#EXTINF:-1,ion-eastern-feed
+https://e4.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8?token=Y461GRneql-zNjVd9WUe9Q&expires=1780173815&user_id=VEFnSlJ2NGdvRmxzaFFFNXZmazJwNXpqMTg5NGFNa1lDOERRM1lWRg==
 #EXTINF:-1 channel-id="ion-plus" tvg-id="ion-plus" tvg-chno="4030" tvg-name="Ion Plus" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/ion-plus.png" group-title="Entertainment",Ion Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="investigation-discovery-east" tvg-name="Investigation Discovery East" group-title="Entertainment",Investigation Discovery East
