@@ -826,6 +826,8 @@ http://202.70.146.135:8000/play/a06r/index.m3u8
 http://202.70.146.135:8000/play/a06p/index.m3u8
 #EXTINF:-1 channel-id="star-movies-select-hd" tvg-id="star-movies-select-hd" tvg-chno="4002" tvg-name="Star Movies Select HD" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/star-movies-select-hd.png" group-title="Movies",Star Movies Select HD
 http://202.70.146.135:8000/play/a06q/index.m3u8
+#EXTINF:-1,Whiplash Cinema (480p)
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 channel-id="netmax-tv" tvg-id="netmax-tv" tvg-chno="4003" tvg-name="Netmax TV" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/netmax-tv.png" group-title="Entertainment",Netmax TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/chunklist_w49954451.m3u8
 #EXTINF:-1 channel-id="toonami-aftermath-movies" tvg-id="toonami-aftermath-movies" tvg-chno="4004" tvg-name="Toonami Aftermath Movies" tvg-logo="https://raw.githubusercontent.com/touchze/m3u-logos/main/logos/toonami-aftermath-movies.png" group-title="Movies",Toonami Aftermath Movies
