@@ -990,5 +990,54 @@ https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_480p/ch
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/cb573d1a786c618a84cb3963cef34282847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fae75e4d8b3aa2b1014d922943fa83439fd501b2d2d25b8317d322f74795c6f7dfd54287e4015293728aecdb5f581fa9a83bf8f955bfd6937929957f2d556c3a8cc1b2cd3ef702da21269cded8b6648561a652b586125b9601964b85258f2b8900b3f80cdac54137e9224bc6940c1b4883e0ae9ee9343ffd50f2b1e8c4726fdb8d7c9fcdc11fbb010e1aea8dfb068bd51c98b526c5bb6f5d1bc59350d1fbd8e7b9e0dc1ece64a2a285f4ce8bac52cd46a6243607d9c3a04746888478004f4445e2b754ca8fd55f0aaf2eec8f73db0912b5d78acc8a406b8a282c53e664d64c162ce2002c2db563a9c17c5b80285cd16e7de30e61c902dda83cf9a2ece00410bcca8817ac38a1e65c92be29815911754ef3fe2554400c5ad5ed6d027939e04df6dcc7e4385854b4b99db0901d68470a16540d99eba825c8d98e7a4b64b4394c577d1e139913c5298e503b6700fd5e82fc4724ff454b4bc1a8305a5669ecb8928995d9c741f53293f8f4372b344e70ff5421237dd8a28249f75b1a2d23bde1a0cee80d610fe8608d19ea3d1c4e4e4df7362e4946/139/848x480_1686360/index.m3u8
 #EXTINF:-1 tvg-name="Asian Crush" tvg-logo="https://siliconweb.com" group-title="Entertainment",Asian Crush
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist_1024x576.m3u8
-
+#EXTINF:-1 tvg-name="Hallmark Movies And More 2" tvg-logo="https://siliconweb.com" group-title="Entertainment",Hallmark Movies And More 2
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-name="Astro Aod" tvg-logo="https://siliconweb.com" group-title="Entertainment",Astro Aod
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://siliconweb.com" group-title="Entertainment",TNT
+http://84.17.50.102/tnt/index.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://siliconweb.com" group-title="Movies",AMC
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-name="AXN Movies HD" tvg-logo="https://siliconweb.com" group-title="Movies",AXN Movies HD
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://siliconweb.com" group-title="Movies",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax 3" tvg-logo="https://siliconweb.com" group-title="Movies",Cinemax 3
+http://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Cinemax 4" tvg-logo="https://siliconweb.com" group-title="Movies",Cinemax 4
+http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
+#EXTINF:-1 tvg-name="Crime Plus Investigation" tvg-logo="https://siliconweb.com" group-title="Documentary",Crime Plus Investigation
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+#EXTINF:-1 tvg-name="FXX" tvg-logo="https://siliconweb.com" group-title="Entertainment",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 tvg-name="Hallmark" tvg-logo="https://siliconweb.com" group-title="Entertainment",Hallmark
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-name="USA HBO Comedy" tvg-logo="https://siliconweb.com" group-title="Movies",USA HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-name="NBA TV HD" tvg-logo="https://siliconweb.com" group-title="Sports",NBA TV HD
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://siliconweb.com" group-title="Movies",HBO Family
+http://103.148.44.38:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax 2" tvg-logo="https://siliconweb.com" group-title="Movies",Cinemax 2
+http://103.148.44.38:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-name="HBO Hits HD" tvg-logo="https://siliconweb.com" group-title="Movies",HBO Hits HD
+http://103.148.44.38:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-name="Crime Story" tvg-logo="https://siliconweb.com" group-title="Documentary",Crime Story
+http://103.148.44.38:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://siliconweb.com" group-title="Movies",HBO Signature
+http://103.148.44.38:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://siliconweb.com" group-title="Movies",HBO HD
+http://103.148.44.38:8000/play/a09a/index.m3u8
+#EXTINF:-1 tvg-name="AMC Thrillers" tvg-logo="https://siliconweb.com" group-title="Movies",AMC Thrillers
+https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8
+#EXTINF:-1 tvg-name="Flix" tvg-logo="https://siliconweb.com" group-title="Movies",Flix
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/114576
+#EXTINF:-1 tvg-name="Freeform" tvg-logo="https://siliconweb.com" group-title="Entertainment",Freeform
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/1677
+#EXTINF:-1 tvg-name="FYI" tvg-logo="https://siliconweb.com" group-title="Entertainment",FYI
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/31451
+#EXTINF:-1 tvg-name="Starz Edge" tvg-logo="https://siliconweb.com" group-title="Movies",Starz Edge
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/95918
+#EXTINF:-1 tvg-name="HDNet Movies" tvg-logo="https://siliconweb.com" group-title="Movies",HDNet Movies
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/111040
 
