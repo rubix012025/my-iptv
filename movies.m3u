@@ -1022,7 +1022,7 @@ http://103.148.44.38:8000/play/a029/index.m3u8
 http://103.148.44.38:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-name="HBO Hits HD" tvg-logo="https://siliconweb.com" group-title="Movies",HBO Hits HD
 http://103.148.44.38:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-name="Crime Story" tvg-logo="https://siliconweb.com" group-title="Documentary",Crime Story
+#EXTINF:-1 tvg-name="Galaxy" tvg-logo="https://siliconweb.com" group-title="Documentary",Galaxy
 http://103.148.44.38:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://siliconweb.com" group-title="Movies",HBO Signature
 http://103.148.44.38:8000/play/a025/index.m3u8
