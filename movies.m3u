@@ -998,34 +998,16 @@ http://84.17.50.102/tnt/index.m3u8
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-name="AXN Movies HD" tvg-logo="https://siliconweb.com" group-title="Movies",AXN Movies HD
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://siliconweb.com" group-title="Movies",Cinemax
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1 tvg-name="Cinemax 3" tvg-logo="https://siliconweb.com" group-title="Movies",Cinemax 3
-http://23.237.104.106:8080/USA_5STARMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Cinemax 4" tvg-logo="https://siliconweb.com" group-title="Movies",Cinemax 4
-http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
 #EXTINF:-1 tvg-name="Crime Plus Investigation" tvg-logo="https://siliconweb.com" group-title="Documentary",Crime Plus Investigation
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 #EXTINF:-1 tvg-name="FXX" tvg-logo="https://siliconweb.com" group-title="Entertainment",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-name="Hallmark" tvg-logo="https://siliconweb.com" group-title="Entertainment",Hallmark
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:-1 tvg-name="USA HBO Comedy" tvg-logo="https://siliconweb.com" group-title="Movies",USA HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-name="NBA TV HD" tvg-logo="https://siliconweb.com" group-title="Sports",NBA TV HD
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://siliconweb.com" group-title="Movies",HBO Family
-http://103.148.44.38:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-name="Cinemax 2" tvg-logo="https://siliconweb.com" group-title="Movies",Cinemax 2
-http://103.148.44.38:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-name="HBO Hits HD" tvg-logo="https://siliconweb.com" group-title="Movies",HBO Hits HD
-http://103.148.44.38:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-name="Galaxy" tvg-logo="https://siliconweb.com" group-title="Documentary",Galaxy
 http://103.148.44.38:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://siliconweb.com" group-title="Movies",HBO Signature
-http://103.148.44.38:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://siliconweb.com" group-title="Movies",HBO HD
-http://103.148.44.38:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-name="AMC Thrillers" tvg-logo="https://siliconweb.com" group-title="Movies",AMC Thrillers
 https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8
 #EXTINF:-1 tvg-name="Flix" tvg-logo="https://siliconweb.com" group-title="Movies",Flix
